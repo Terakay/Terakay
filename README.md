@@ -1,4 +1,4 @@
-<h1> Hello, world! </h1>
-Not much to see here, since most my contributions are private!
-Feel free to contact me under theayxsan@gmail.com if you need anything. If you wanna chat my discord username is "i2thepowerof0".
+<h1> Hi </h1>
+Not much to see here!
+If you need anything feel free to contact me via https://discord.gg/ZKWWbkRV
 <h2> Have a splendid day! :) </h2>
